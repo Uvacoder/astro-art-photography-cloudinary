@@ -1,7 +1,7 @@
 export const images = [
   {
     label: "I love my horde",
-    href: "https://res.cloudinary.com/freeunioncoder/image/upload/v1677266173/FavDribbble/8ABA6812-702F-46E5-AA83-E1FD7D091D61.png",
+    href: "https://res.cloudinary.com/freeunioncoder/image/upload/c_fill,h_250,w_250/v1677266173/FavDribbble/8ABA6812-702F-46E5-AA83-E1FD7D091D61.png",
   },
   {
     label: "A monkey eating a banana",
