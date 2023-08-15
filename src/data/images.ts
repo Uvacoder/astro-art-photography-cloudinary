@@ -5,7 +5,7 @@ export const images = [
   },
   {
     label: "A monkey eating a banana",
-    href: "https://res.cloudinary.com/dei5kkweh/image/upload/v1680652277/DALL_E_2023-04-04_17.50.57_-__A_monkey_eating_a_banana__by_Johannes_Vermeer_brvyle.png",
+    href: "https://res.cloudinary.com/freeunioncoder/image/upload/c_scale,w_350/v1677266171/FavDribbble/F91027E1-9D6A-43E6-B24C-DD8497CF20E9.png",
   },
   {
     label: "Darth Vader",
