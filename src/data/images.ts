@@ -9,7 +9,7 @@ export const images = [
   },
   {
     label: "Darth Vader",
-    href: "https://res.cloudinary.com/dei5kkweh/image/upload/v1680652877/DALL_E_2023-04-04_18.00.43_-__Darth_Vader__by_Johannes_Vermeer_fnmthn.png",
+    href: "https://res.cloudinary.com/demo/image/upload/ar_4:3,c_fill/c_scale,w_auto/dpr_auto/sample.jpg",
   },
   {
     label: "A river",
