@@ -1,7 +1,7 @@
 export const images = [
   {
-    label: "A sea otter with a pearl collar",
-    href: "https://res.cloudinary.com/dei5kkweh/image/upload/v1680651680/DALL_E_2023-04-04_17.41.01_-_A_sea_otter_with_a_pearl_earring__by_Johannes_Vermeer_v8tkvb.png",
+    label: "I love my horde",
+    href: "https://res.cloudinary.com/freeunioncoder/image/upload/v1677266173/FavDribbble/8ABA6812-702F-46E5-AA83-E1FD7D091D61.png",
   },
   {
     label: "A monkey eating a banana",
