@@ -1,11 +1,11 @@
 export const images = [
   {
     label: "I love my horde",
-    href: "https://res.cloudinary.com/freeunioncoder/image/upload/c_fill,h_250,w_250/v1677266173/FavDribbble/8ABA6812-702F-46E5-AA83-E1FD7D091D61.png",
+    href: "https://res.cloudinary.com/freeunioncoder/image/upload/v1677266173/FavDribbble/8ABA6812-702F-46E5-AA83-E1FD7D091D61.png",
   },
   {
     label: "A monkey eating a banana",
-    href: "https://res.cloudinary.com/freeunioncoder/image/upload/c_scale,w_350/v1677266171/FavDribbble/F91027E1-9D6A-43E6-B24C-DD8497CF20E9.png",
+    href: "https://res.cloudinary.com/freeunioncoder/image/upload/v1677266171/FavDribbble/F91027E1-9D6A-43E6-B24C-DD8497CF20E9.png",
   },
   {
     label: "Darth Vader",
